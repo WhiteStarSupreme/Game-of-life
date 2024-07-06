@@ -1,6 +1,4 @@
-Certainly! Let's update the README file to reflect the current features and usage instructions for the InfiniteGrid application, incorporating the recent changes and additions:
 
----
 
 # InfiniteGrid - Conway's Game of Life
 
